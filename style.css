@@ -1,9 +1,7 @@
-/* .bg-lights{
-  background-color: rgb(223, 233, 215) !important;
+
+.carousel-control-next-icon{
+  background-image: url('./images/caret-right-fill.svg') !important;
 }
-.col .card{
-  width: 100% !important;
+.carousel-control-prev-icon{
+  background-image: url('./images/caret-left-fill.svg') !important;
 }
-.footer{
-  background-color: rgb(218, 210, 199);
-} */
